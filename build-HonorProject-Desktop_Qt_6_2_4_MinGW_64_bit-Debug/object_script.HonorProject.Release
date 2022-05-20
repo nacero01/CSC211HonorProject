@@ -1,0 +1,13 @@
+release/aboutdialog.o
+release/game.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/multiplechoice.o
+release/registerdialog.o
+release/moc_aboutdialog.o
+release/moc_game.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_multiplechoice.o
+release/moc_registerdialog.o

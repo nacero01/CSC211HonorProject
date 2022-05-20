@@ -1,0 +1,13 @@
+debug/aboutdialog.o
+debug/game.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/multiplechoice.o
+debug/registerdialog.o
+debug/moc_aboutdialog.o
+debug/moc_game.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_multiplechoice.o
+debug/moc_registerdialog.o

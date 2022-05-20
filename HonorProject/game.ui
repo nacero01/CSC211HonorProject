@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Game</class>
+ <widget class="QDialog" name="Game">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>332</width>
+    <height>170</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>-10</y>
+     <width>341</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>GroupBox</string>
+   </property>
+   <widget class="QLabel" name="label_Status_2">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>150</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700; color:#f80004;&quot;&gt;[+] Status&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="multipleChoice_Button">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>20</y>
+      <width>181</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Mutiple Choice</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="trueOrFalse_Button">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>50</y>
+      <width>181</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>True or False</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>80</y>
+      <width>181</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Vocabulary</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>110</y>
+      <width>181</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Survey</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>-20</x>
+      <y>0</y>
+      <width>451</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../Pictures/Saved Pictures/Climate.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>label_Status_2</zorder>
+   <zorder>multipleChoice_Button</zorder>
+   <zorder>trueOrFalse_Button</zorder>
+   <zorder>pushButton_3</zorder>
+   <zorder>pushButton_4</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
